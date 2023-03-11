@@ -10,5 +10,5 @@ I used the serial connection between the Microcontroller and my PC to control th
 Assembly
 
 <img src='instructions/assembly_animation_extra_compressed.gif' width=720/>
-<img src='https://github.com/Mattimotion/golem/blob/79552381247074b1e50965c67f5201cbfa902d6a/instructions/inside.jpg' width=720/>
+<img src='instructions/inside.jpg' width=720/>
 
